@@ -1,3 +1,4 @@
 #!/usr/bin/env python
 #-*- coding: utf-8 -*
-print 'hello python'
+l = [365, 'everyday', 0.618, True]
+print l
